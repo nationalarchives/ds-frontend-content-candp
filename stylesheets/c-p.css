@@ -1,0 +1,28 @@
+.s_caption {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.7ex; color: #000000; text-transform: none; font-style: italic}
+.s_default {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: 200; color: #000000}
+.s_titles {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 2ex; font-weight: normal; color: #000000}
+.gloss_text { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: 200; color: #FFFFFF; background-color: #000000}
+body {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+body {  }
+a:active {  text-decoration: none}
+a:visited {  text-decoration: none}
+a:active {  }
+a:visited {  }
+a:link {  }
+a:link {  text-decoration: none}
+a:link {  }
+.g_body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; color: #003300; background-color: #ebebe2; text-align: left}
+.b_body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; color: #000066; background-color: #ebebe2; text-align: left }
+.r_body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; color: #660000; background-color: #ebebe2; text-align: left }
+.cs_default {  font-family: Arial, Helvetica, sans-serif; font-size: 1.5ex; color: #000000}
+.s_titlesm { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #000000}
+.s_defaultital { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: 200; color: #000000 ; font-style: italic}
+.cplink {  color: #CC0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: bold; text-decoration: none}
+.taskblue {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: normal; color: #000066}
+.taskred {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: normal; color: #660000}
+.taskgreen {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: normal; color: #003300}
+.tasktitlered {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: bold; color: #660000}
+.tasktitleblue {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: bold; color: #000066}
+.tasktitlegreen {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: bold; color: #003300}
+.s_default_line_through { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1.5ex; font-weight: 200; color: #000000 ; text-decoration: line-through}
+.table {  border: 003300; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
